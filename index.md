@@ -4,11 +4,9 @@ I am a PhD Candidate at Leiden University's Institute for Tax Law and Economics 
 
 ## Publications
 
-<<<<<<< HEAD
 - Special Economic Zones Facing the Challenges of International Taxation: BEPS Action 5, EU Code of Conduct, and the Future. (with Irma Mosquera) forthcoming at Journal of International Economic Law  [Paper](https://doi.org/10.1093/jiel/jgab019)  [Slides](http://globtaxgov.weblog.leidenuniv.nl/files/2020/10/Heitm%C3%BCller_Mosquera_SEZ_taxation.pdf)
-=======
-- Special Economic Zones Facing the Challenges of International Taxation: BEPS Action 5, EU Code of Conduct, and the Future. (with Irma Mosquera) Journal of International Economic Law [Paper](https://doi.org/10.1093/jiel/jgab019)[Slides](http://globtaxgov.weblog.leidenuniv.nl/files/2020/10/Heitm%C3%BCller_Mosquera_SEZ_taxation.pdf)
->>>>>>> 192147a441cdeee0c447780bed98c90a144bc966
+
+
 
 ## Working papers and Conference papers
 -	White paper on Corporate Tax, Digitalization and Globalization. (with Irma Mosquera). World Economic Forum. 2019
