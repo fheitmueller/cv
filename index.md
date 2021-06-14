@@ -6,21 +6,22 @@ I am a PhD Candidate at Leiden University's Institute for Tax Law and Economics 
 
 [f.heitmuller@law.leidenuniv.nl](mailto:f.heitmuller@law.leidenuniv.nl) | [Twitter](https://twitter.com/HeitmuellerF) | [LinkedIn](https://www.linkedin.com/in/frederik-heitm%C3%BCller-6b041314a/) | [GitHub](https://github.com/fheitmueller) 
 
-## Publications
+## Research
+### Peer-reviewed publications
 
 - _Special Economic Zones Facing the Challenges of International Taxation: BEPS Action 5, EU Code of Conduct, and the Future_ (with Irma Mosquera) forthcoming at Journal of International Economic Law | [Paper](https://doi.org/10.1093/jiel/jgab019) |  [Slides](http://globtaxgov.weblog.leidenuniv.nl/files/2020/10/Heitm%C3%BCller_Mosquera_SEZ_taxation.pdf)
 
 
-## Working papers and Conference papers
+### Working papers and Conference papers
 -	_Corporate Tax, Digitalization and Globalization_ (with Irma Mosquera). World Economic Forum White Paper. 2019 | [Paper](http://www3.weforum.org/docs/WEF_Corporate_Tax_Digitalization_and_Globalization.pdf)
--	_Regulatory Capacity of Corporate Registries in the European Union. Survey Results_ (with Moran Harari and Markus Meinzer)
--	_The capacity of tax administrations to fight tax evasion and tax avoidance_ (with Moran Harari and Markus Meinzer), presented at the “New Perspectives on Tax Administration Research” conference at CESIfo, Munich, November 2-3, 2018.
--	_Citizenship and Residency by Investment Schemes: Potential to Avoid the Common Reporting Standard for Automatic Exchange of Information_”_ (with Andres Knobel). 2018. 
+-	_Regulatory Capacity of Corporate Registries in the European Union. Survey Results_ (with Moran Harari and Markus Meinzer) | [Paper](https://www.taxjustice.net/wp-content/uploads/2019/02/Administrative-capacity-of-corporate-registries-Tax-Justice-Network-Feb-2019.pdf)
+-	_Tax administrations' capacity tax evasion and tax avoidance_ (with Moran Harari and Markus Meinzer), presented at the “New Perspectives on Tax Administration Research” conference at CESIfo, Munich, November 2-3, 2018. | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3300589)
+-	_Citizenship and Residency by Investment Schemes: Potential to Avoid the Common Reporting Standard for Automatic Exchange of Information_”_ (with Andres Knobel). 2018 | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3144444)
 
-## Blogs
+### Blogs
 - _Are G7 countries doing developing countries a favour when levying global minimum taxes?_ GLOBTAXGOV Blog. 10 June 2021 | [Link](https://globtaxgov.weblog.leidenuniv.nl/2021/06/10/are-g7-countries-doing-developing-countries-a-favour-when-levying-global-minimum-taxes/)
 - _Corporate income taxation and COVID-19 – time to think about a European tax?_ GLOBTAXGOV Blog. 5 June 2020 | [Link](https://globtaxgov.weblog.leidenuniv.nl/2020/06/05/corporate-income-taxation-and-covid-19-time-to-think-about-a-european-tax/)
-- _Are clubs still the right place to deal with the great problems of our time? – Insights from the conference “G20 @ 10”_ GLOBTAXGOV Blog. 23 November 2018 |[Link] (https://globtaxgov.weblog.leidenuniv.nl/2018/11/23/are-clubs-still-the-right-place-to-deal-with-the-great-problems-of-our-time-insights-from-the-conference-g20-10/)
+- _Are clubs still the right place to deal with the great problems of our time? – Insights from the conference “G20 @ 10”_ GLOBTAXGOV Blog. 23 November 2018 | [Link](https://globtaxgov.weblog.leidenuniv.nl/2018/11/23/are-clubs-still-the-right-place-to-deal-with-the-great-problems-of-our-time-insights-from-the-conference-g20-10/)
 
 ## Other activities
 ### Co-organizer 
@@ -30,6 +31,7 @@ I am a PhD Candidate at Leiden University's Institute for Tax Law and Economics 
 ### Reviewer
 - Regulation & Governance
 - Nordic Journal for Law and Society
+- GLOBTAXGOV Blog
 
 ## Previous affiliations
 - 09/2018 – 02/2023	PhD candidate, Leiden University / GLOBTAXGOV project
