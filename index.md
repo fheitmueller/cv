@@ -43,7 +43,7 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 ### Working papers and Conference papers
 
 -   *Regulatory Capacity of Corporate Registries in the European Union.
-    Survey Results* (with Moran Harari and Markus Meinzer), 2019 \*
+    Survey Results* (with Moran Harari and Markus Meinzer), 2019 -
     [Paper](https://www.taxjustice.net/wp-content/uploads/2019/02/Administrative-capacity-of-corporate-registries-Tax-Justice-Network-Feb-2019.pdf)
 -   *Tax administrations’ capacity tax evasion and tax avoidance* (with
     Moran Harari and Markus Meinzer), presented at the “New Perspectives
