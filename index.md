@@ -1,6 +1,6 @@
 # CV Frederik Heitmüller
 
-Updated: 15 Jun 2021 [Web version](https://fheitmueller.github.io/cv/)
+Updated: 25 Jun 2021 [Web version](https://fheitmueller.github.io/cv/)
 [PDF
 version](https://github.com/fheitmueller/cv/raw/master/cv_Heitmuller.pdf)
 
@@ -30,8 +30,9 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 
 -   *Special Economic Zones Facing the Challenges of International
     Taxation: BEPS Action 5, EU Code of Conduct, and the Future* (with
-    Irma Mosquera) forthcoming at Journal of International Economic
-    Law - [Paper](https://doi.org/10.1093/jiel/jgab019) -
+    Irma Mosquera), Journal of International Economic Law, Volume 24,
+    Issue 2, June 2021, Pages 473–490 -
+    [Paper](https://doi.org/10.1093/jiel/jgab019) -
     [Slides](http://globtaxgov.weblog.leidenuniv.nl/files/2020/10/Heitm%C3%BCller_Mosquera_SEZ_taxation.pdf)
 
 ### Policy briefs
