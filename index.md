@@ -1,6 +1,6 @@
 # CV Frederik Heitmüller
 
-Updated: 25 Jun 2021 [Web version](https://fheitmueller.github.io/cv/)
+Updated: 01 Sep 2021 [Web version](https://fheitmueller.github.io/cv/)
 [PDF
 version](https://github.com/fheitmueller/cv/raw/master/cv_Heitmuller.pdf)
 
@@ -33,7 +33,17 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
     Irma Mosquera), Journal of International Economic Law, Volume 24,
     Issue 2, June 2021, Pages 473–490 -
     [Paper](https://doi.org/10.1093/jiel/jgab019) -
-    [Slides](http://globtaxgov.weblog.leidenuniv.nl/files/2020/10/Heitm%C3%BCller_Mosquera_SEZ_taxation.pdf)
+    [Slides](http://globtaxgov.weblog.leidenuniv.nl/files/2020/10/Heitm%C3%BCller_Mosquera_SEZ_taxation.pdf) -
+    [Data](https://github.com/fheitmueller/sez_beps)
+
+### Book chapters
+
+-   *Multilateral Cooperation in International Tax Law* (with Juliana
+    Cubillos and Irma Mosquera). In: The Future of Multilateralism:
+    Global Cooperation and International Organizations (ed.:
+    Madeleine O. Hosli, Taylor Garrett, Sonja Niedecken, Nicolas
+    Verbeek). 2021. Lanham (Maryland): Rowman & Littlefield -
+    [Pre-Print](http://globtaxgov.weblog.leidenuniv.nl/files/2021/08/Multilateral-Cooperation-in-International-Tax-Law.pdf)
 
 ### Policy briefs
 
