@@ -1,7 +1,7 @@
 # CV Frederik Heitmüller
 
-Updated: 01 Sep 2021 [Web version](https://fheitmueller.github.io/cv/)
-[PDF
+Updated: 25 Mrz 2022 | [Web version](https://fheitmueller.github.io/cv/)
+| [PDF
 version](https://github.com/fheitmueller/cv/raw/master/cv_Heitmuller.pdf)
 
 I am a PhD Candidate at Leiden University’s Institute for Tax Law and
@@ -12,7 +12,7 @@ corporate tax avoidance, the influence of international norms in the
 Global South and tax policy for development. I work in an
 interdisciplinary way and I aim at contributing to the state of the art
 in political science and tax law scholarship. My PhD thesis is
-supervised by [Dr. Irma
+supervised by [Prof. Dr. Irma
 Mosquera](https://www.universiteitleiden.nl/medewerkers/irma-mosquera-valderrama#tab-1)
 and [Prof. Dr. Madeleine
 Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
@@ -79,10 +79,35 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
     Blog. 23 November 2018 -
     [Link](https://globtaxgov.weblog.leidenuniv.nl/2018/11/23/are-clubs-still-the-right-place-to-deal-with-the-great-problems-of-our-time-insights-from-the-conference-g20-10/)
 
+## Teaching
+
+### As instructor
+
+-   Navigating Global Tax Governance. A series of 5 workshops for tax
+    officials in Africa, in cooperation with [African Tax Administration
+    Forum](www.ataftax.org/). February and March 2022
+
+## As guest lecturer
+
+-   “The political economy of the fight against Base Erosion and Profit
+    Shifting”, 18 November 2021, in Honour’s College course “Role of
+    International Actors in tackling global inequality and achieving the
+    Sustainable Development Goals” coordinated by Irma Mosquera, Leiden
+    University
+-   “Challenges of Taxing MNEs in the Global South”, 14 October 2021, in
+    Master’s course “Law and Development”, coordinated by Annelien
+    Bouland, Leiden University.
+-   “Balancing FDI attraction and revenue collection”, 7 October 2021,
+    in Honours Class course “Policy coherence to achieve the Sustainable
+    Development Goals from a tax, trade and investment law perspective”
+    at Leiden University, coordinated by Irma Mosquera
+
 ## Other academic activities
 
 ### Co-organizer
 
+-   “Taxation, State Capacity, and Accountable Rule”, workshop at the
+    2022 ECPR Joint Sessions (with Anna Persson)
 -   Research Colloquium on Global Tax Governance (with Irma Mosquera and
     Martin Hearson)
 -   Global Governance Gap Research Group at Leiden Law School (with
