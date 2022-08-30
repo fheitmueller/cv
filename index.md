@@ -1,6 +1,6 @@
 # CV Frederik Heitmüller
 
-Updated: 25 Mrz 2022 | [Web version](https://fheitmueller.github.io/cv/)
+Updated: 29 aug 2022 | [Web version](https://fheitmueller.github.io/cv/)
 | [PDF
 version](https://github.com/fheitmueller/cv/raw/master/cv_Heitmuller.pdf)
 
@@ -26,7 +26,7 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 
 ## Research
 
-### Peer-reviewed publications
+### Peer-reviewed journal articles
 
 -   *Special Economic Zones Facing the Challenges of International
     Taxation: BEPS Action 5, EU Code of Conduct, and the Future* (with
@@ -35,6 +35,15 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
     [Paper](https://doi.org/10.1093/jiel/jgab019) -
     [Slides](http://globtaxgov.weblog.leidenuniv.nl/files/2020/10/Heitm%C3%BCller_Mosquera_SEZ_taxation.pdf) -
     [Data](https://github.com/fheitmueller/sez_beps)
+
+### Reports and toolkits
+
+-   *Toolkit for the Design and Effective Implementation of Domestic and
+    International General Anti-Avoidance Rules* (with Juliana Cubillos
+    and Irma Mosquera), Published by Inter-American Center of Tax
+    Administrations (CIAT), 2022. - [report in
+    English](https://biblioteca.ciat.org/opac/book/5804) - [report in
+    Spanish](https://biblioteca.ciat.org/opac/book/5803)
 
 ### Book chapters
 
@@ -137,3 +146,23 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
     Studies, Monterey, California (specialization: International Trade)
 -   2012 – 2015 B.A. „Social Sciences (Franco-German)“ at University of
     Stuttgart and Sciences Po Bordeaux (double-degree program)
+
+## Language skills
+
+-   English (fluent)
+-   French (fluent)
+-   Spanish (fluent)
+-   Dutch (fluent)
+-   German (mother tongue)
+
+## Other skills
+
+-   R (statistical programming language) (advanced)
+
+## References
+
+Prof. dr. Irma Mosquera Valderrama  
+Leiden University  
+Steenschuur 25  
+2311ES Leiden  
+<i.j.mosquera.valderrama@law.leidenuniv.nl>
