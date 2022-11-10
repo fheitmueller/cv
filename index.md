@@ -1,6 +1,6 @@
 # CV Frederik Heitmüller
 
-Updated: 29 aug 2022 | [Web version](https://fheitmueller.github.io/cv/)
+Updated: 08 Nov 2022 | [Web version](https://fheitmueller.github.io/cv/)
 | [PDF
 version](https://github.com/fheitmueller/cv/raw/master/cv_Heitmuller.pdf)
 
@@ -92,11 +92,15 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 
 ### As instructor
 
+-   EU and Tax Sovereignty: Discussing the Role of the EU In
+    International Tax Law Making, at Leiden University, Faculty for
+    Global Governance and Affairs, MSc International Relations and
+    Diplomacy Program (MIRD), Fall 2022
 -   Navigating Global Tax Governance. A series of 5 workshops for tax
     officials in Africa, in cooperation with [African Tax Administration
     Forum](www.ataftax.org/). February and March 2022
 
-## As guest lecturer
+### As guest lecturer
 
 -   “The political economy of the fight against Base Erosion and Profit
     Shifting”, 18 November 2021, in Honour’s College course “Role of
@@ -106,10 +110,10 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 -   “Challenges of Taxing MNEs in the Global South”, 14 October 2021, in
     Master’s course “Law and Development”, coordinated by Annelien
     Bouland, Leiden University.
--   “Balancing FDI attraction and revenue collection”, 7 October 2021,
-    in Honours Class course “Policy coherence to achieve the Sustainable
-    Development Goals from a tax, trade and investment law perspective”
-    at Leiden University, coordinated by Irma Mosquera
+-   “Balancing FDI attraction and revenue collection”, in Honours Class
+    course “Policy coherence to achieve the Sustainable Development
+    Goals from a tax, trade and investment law perspective” at Leiden
+    University, coordinated by Irma Mosquera, 2021 and 2022
 
 ## Other academic activities
 
@@ -124,8 +128,10 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 
 ### Reviewer
 
+-   Intertax
 -   Regulation & Governance
 -   Nordic Journal for Law and Society
+-   University of Curaçao
 -   GLOBTAXGOV Blog
 
 ## Previous affiliations
