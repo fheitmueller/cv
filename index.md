@@ -1,11 +1,12 @@
 # CV Frederik Heitmüller
 
-Updated: 08 Nov 2022 | [Web version](https://fheitmueller.github.io/cv/)
+Updated: 30 Mai 2023 | [Web version](https://fheitmueller.github.io/cv/)
 | [PDF
 version](https://github.com/fheitmueller/cv/raw/master/cv_Heitmuller.pdf)
 
-I am a PhD Candidate at Leiden University’s Institute for Tax Law and
-Economics in the [GLOBTAXGOV
+I am a Research Consultant at the [International Centre for Tax and
+Development (ICTD)](https://www.ictd.ac/) and PhD Candidate at Leiden
+University’s Institute for Tax Law and Economics in the [GLOBTAXGOV
 Project](https://globtaxgov.weblog.leidenuniv.nl/) (since 2018,
 prospectively until 2023). My research focusses on policies against
 corporate tax avoidance, the influence of international norms in the
@@ -19,7 +20,7 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 
 ## Contact information
 
-<f.heitmuller@law.leidenuniv.nl> |
+<f.heitmuller@law.leidenuniv.nl> | <f.heitmuller@ictd.ac>
 [Twitter](https://twitter.com/HeitmuellerF) |
 [LinkedIn](https://www.linkedin.com/in/frederik-heitm%C3%BCller-6b041314a/)
 | [GitHub](https://github.com/fheitmueller)
@@ -92,6 +93,7 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 
 ### As instructor
 
+-   Comparative Tax Law, Law Faculty, Leiden University
 -   EU and Tax Sovereignty: Discussing the Role of the EU In
     International Tax Law Making, at Leiden University, Faculty for
     Global Governance and Affairs, MSc International Relations and
@@ -102,8 +104,12 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 
 ### As guest lecturer
 
+-   “The taxation of global corporations”, 1 May 2023, at Erasmus
+    University College, Rotterdam
+-   “Pillar 2 and developing countries: the debate”, 19 April 2023, Law
+    Faculty, Leiden University
 -   “The political economy of the fight against Base Erosion and Profit
-    Shifting”, 18 November 2021, in Honour’s College course “Role of
+    Shifting”, 2021 and 2022, in Honour’s College course “Role of
     International Actors in tackling global inequality and achieving the
     Sustainable Development Goals” coordinated by Irma Mosquera, Leiden
     University
@@ -131,8 +137,9 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 -   Intertax
 -   Regulation & Governance
 -   Nordic Journal for Law and Society
+-   Journal of Tax Administration
+-   Journal of International Economic Law
 -   University of Curaçao
--   GLOBTAXGOV Blog
 
 ## Previous affiliations
 
@@ -164,11 +171,3 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 ## Other skills
 
 -   R (statistical programming language) (advanced)
-
-## References
-
-Prof. dr. Irma Mosquera Valderrama  
-Leiden University  
-Steenschuur 25  
-2311ES Leiden  
-<i.j.mosquera.valderrama@law.leidenuniv.nl>
