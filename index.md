@@ -1,16 +1,16 @@
 # CV Frederik Heitmüller
 
-Updated: 30 Mai 2023 | [Web version](https://fheitmueller.github.io/cv/)
+Updated: 07 Okt 2023 | [Web version](https://fheitmueller.github.io/cv/)
 | [PDF
 version](https://github.com/fheitmueller/cv/raw/master/cv_Heitmuller.pdf)
 
 I am a Research Consultant at the [International Centre for Tax and
-Development (ICTD)](https://www.ictd.ac/) and PhD Candidate at Leiden
-University’s Institute for Tax Law and Economics in the [GLOBTAXGOV
-Project](https://globtaxgov.weblog.leidenuniv.nl/) (since 2018,
-prospectively until 2023). My research focusses on policies against
-corporate tax avoidance, the influence of international norms in the
-Global South and tax policy for development. I work in an
+Development (ICTD)](https://www.ictd.ac/) and a PhD Candidate and
+Teacher at Leiden University’s Institute for Tax Law and Economics in
+the [GLOBTAXGOV Project](https://globtaxgov.weblog.leidenuniv.nl/)
+(since 2018, prospectively until 2023). My research focuses on policies
+against corporate tax avoidance, the influence of international norms in
+the Global South and tax policy for development. I work in an
 interdisciplinary way and I aim at contributing to the state of the art
 in political science and tax law scholarship. My PhD thesis is
 supervised by [Prof. Dr. Irma
@@ -20,7 +20,7 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 
 ## Contact information
 
-<f.heitmuller@law.leidenuniv.nl> | <f.heitmuller@ictd.ac>
+<f.heitmuller@law.leidenuniv.nl> | <f.heitmuller@ictd.ac> |
 [Twitter](https://twitter.com/HeitmuellerF) |
 [LinkedIn](https://www.linkedin.com/in/frederik-heitm%C3%BCller-6b041314a/)
 | [GitHub](https://github.com/fheitmueller)
@@ -63,6 +63,15 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 
 ### Working papers and Conference papers
 
+-   *Inclusive and Effective International Tax Cooperation: Views From
+    the Global South* (with Lucinda Cadzow, Martin Hearson, Katharina
+    Kuhn, Okanga Okanga, and Tovony Randriamanalina), ICTD Working Paper
+    172, 2023 -
+    [Paper](https://www.ictd.ac/publication/inclusive-effective-international-tax-cooperation/)
+-   *Tax Treaty Norms Among Lower-Income Countries and the Role of the
+    UN Model: Past, Present and Potential* (with Martin Hearson and
+    Vincent Arel-Bundock), ICTD Working Paper 171, 2023 -
+    [Paper](https://www.ictd.ac/publication/tax-treaty-norms-among-lower-income-countries/)
 -   *Regulatory Capacity of Corporate Registries in the European Union.
     Survey Results* (with Moran Harari and Markus Meinzer), 2019 -
     [Paper](https://www.taxjustice.net/wp-content/uploads/2019/02/Administrative-capacity-of-corporate-registries-Tax-Justice-Network-Feb-2019.pdf)
@@ -91,9 +100,15 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 
 ## Teaching
 
-### As instructor
+### As (co-)instructor
 
--   Comparative Tax Law, Law Faculty, Leiden University
+-   International Tax Law for MNEs, Law Faculty, Leiden University, Fall
+    2023
+-   Policy coherence to achieve the Sustainable Development Goals from a
+    tax, trade and investment law perspective, Honour’s College, Leiden
+    University, Fall 2023
+-   Comparative Tax Law, Law Faculty, Leiden University, Spring 2023 and
+    Fall 2023
 -   EU and Tax Sovereignty: Discussing the Role of the EU In
     International Tax Law Making, at Leiden University, Faculty for
     Global Governance and Affairs, MSc International Relations and
@@ -106,20 +121,6 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 
 -   “The taxation of global corporations”, 1 May 2023, at Erasmus
     University College, Rotterdam
--   “Pillar 2 and developing countries: the debate”, 19 April 2023, Law
-    Faculty, Leiden University
--   “The political economy of the fight against Base Erosion and Profit
-    Shifting”, 2021 and 2022, in Honour’s College course “Role of
-    International Actors in tackling global inequality and achieving the
-    Sustainable Development Goals” coordinated by Irma Mosquera, Leiden
-    University
--   “Challenges of Taxing MNEs in the Global South”, 14 October 2021, in
-    Master’s course “Law and Development”, coordinated by Annelien
-    Bouland, Leiden University.
--   “Balancing FDI attraction and revenue collection”, in Honours Class
-    course “Policy coherence to achieve the Sustainable Development
-    Goals from a tax, trade and investment law perspective” at Leiden
-    University, coordinated by Irma Mosquera, 2021 and 2022
 
 ## Other academic activities
 
