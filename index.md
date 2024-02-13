@@ -1,6 +1,6 @@
 # CV Frederik Heitmüller
 
-Updated: 07 Okt 2023 | [Web version](https://fheitmueller.github.io/cv/)
+Updated: 13 Feb 2024 | [Web version](https://fheitmueller.github.io/cv/)
 | [PDF
 version](https://github.com/fheitmueller/cv/raw/master/cv_Heitmuller.pdf)
 
@@ -8,9 +8,9 @@ I am a Research Consultant at the [International Centre for Tax and
 Development (ICTD)](https://www.ictd.ac/) and a PhD Candidate and
 Teacher at Leiden University’s Institute for Tax Law and Economics in
 the [GLOBTAXGOV Project](https://globtaxgov.weblog.leidenuniv.nl/)
-(since 2018, prospectively until 2023). My research focuses on policies
-against corporate tax avoidance, the influence of international norms in
-the Global South and tax policy for development. I work in an
+(since 2018, until March 2024). My research focuses on policies against
+corporate tax avoidance, the influence of international norms in the
+Global South and tax policy for development. I work in an
 interdisciplinary way and I aim at contributing to the state of the art
 in political science and tax law scholarship. My PhD thesis is
 supervised by [Prof. Dr. Irma
@@ -87,6 +87,9 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 
 ### Blogs
 
+-   *The Subject-To-Tax-Rule (STTR) – which one to choose?* ICTD Blog.
+    12 January 2024 -
+    [Link](https://www.ictd.ac/blog/the-subject-to-tax-rule-sttr-which-one-to-choose/)
 -   *Are G7 countries doing developing countries a favour when levying
     global minimum taxes?* GLOBTAXGOV Blog. 10 June 2021 -
     [Link](https://globtaxgov.weblog.leidenuniv.nl/2021/06/10/are-g7-countries-doing-developing-countries-a-favour-when-levying-global-minimum-taxes/)
@@ -112,7 +115,7 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 -   EU and Tax Sovereignty: Discussing the Role of the EU In
     International Tax Law Making, at Leiden University, Faculty for
     Global Governance and Affairs, MSc International Relations and
-    Diplomacy Program (MIRD), Fall 2022
+    Diplomacy Program (MIRD), Fall 2022 and Spring 2024
 -   Navigating Global Tax Governance. A series of 5 workshops for tax
     officials in Africa, in cooperation with [African Tax Administration
     Forum](www.ataftax.org/). February and March 2022
