@@ -1,22 +1,19 @@
 # CV Frederik Heitmüller
 
-Updated: 13 Feb 2024 | [Web version](https://fheitmueller.github.io/cv/)
+Updated: 25 Apr 2024 | [Web version](https://fheitmueller.github.io/cv/)
 | [PDF
 version](https://github.com/fheitmueller/cv/raw/master/cv_Heitmuller.pdf)
 
-I am a Research Consultant at the [International Centre for Tax and
-Development (ICTD)](https://www.ictd.ac/) and a PhD Candidate and
-Teacher at Leiden University’s Institute for Tax Law and Economics in
-the [GLOBTAXGOV Project](https://globtaxgov.weblog.leidenuniv.nl/)
-(since 2018, until March 2024). My research focuses on policies against
-corporate tax avoidance, the influence of international norms in the
-Global South and tax policy for development. I work in an
-interdisciplinary way and I aim at contributing to the state of the art
-in political science and tax law scholarship. My PhD thesis is
-supervised by [Prof. Dr. Irma
-Mosquera](https://www.universiteitleiden.nl/medewerkers/irma-mosquera-valderrama#tab-1)
-and [Prof. Dr. Madeleine
-Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
+I am an associate post-doctoral researcher at the [International Centre
+for Tax and Development (ICTD)](https://www.ictd.ac/) and a Teacher at
+Leiden University’s Institute for Tax Law and Economics. I complete a
+PhD in the [GLOBTAXGOV
+Project](https://globtaxgov.weblog.leidenuniv.nl/) at Leiden University
+in March 2024. My research focuses on policies against corporate tax
+avoidance, the influence of international norms in the Global South and
+tax policy for development. I work in an interdisciplinary way and I aim
+at contributing to the state of the art in political science and tax law
+scholarship.
 
 ## Contact information
 
@@ -29,6 +26,11 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 
 ### Peer-reviewed journal articles
 
+-   *Influence of domestic constituencies in the implementation of
+    international tax standards and legitimacy of global tax governance*
+    (with Juliana Cubillos), Intertax, Volume 52, Issue 3, 2024, Pages
+    207-225 -
+    [Paper](https://kluwerlawonline.com/journalarticle/Intertax/52.3/TAXI2024027)(paywall)
 -   *Special Economic Zones Facing the Challenges of International
     Taxation: BEPS Action 5, EU Code of Conduct, and the Future* (with
     Irma Mosquera), Journal of International Economic Law, Volume 24,
@@ -36,6 +38,13 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
     [Paper](https://doi.org/10.1093/jiel/jgab019) -
     [Slides](http://globtaxgov.weblog.leidenuniv.nl/files/2020/10/Heitm%C3%BCller_Mosquera_SEZ_taxation.pdf) -
     [Data](https://github.com/fheitmueller/sez_beps)
+
+### PhD thesis
+
+-   *Combatting tax avoidance, the OECD way? The impact of the BEPS
+    Project on developing and emerging countries’ approach to
+    international tax avoidance*, Leiden University, 2024 - [Full
+    text](https://hdl.handle.net/1887/3721806)
 
 ### Reports and toolkits
 
@@ -122,8 +131,8 @@ Hosli](https://www.universiteitleiden.nl/medewerkers/madeleine-hosli#tab-1).
 
 ### As guest lecturer
 
--   “The taxation of global corporations”, 1 May 2023, at Erasmus
-    University College, Rotterdam
+-   “The taxation of global corporations”, 1 May 2023 and 23 April 2024,
+    at Erasmus University College, Rotterdam
 
 ## Other academic activities
 
