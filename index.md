@@ -1,13 +1,12 @@
 # CV Frederik Heitmüller
 
-Updated: 25 Apr 2024 | [Web version](https://fheitmueller.github.io/cv/)
+Updated: 29 Okt 2024 | [Web version](https://fheitmueller.github.io/cv/)
 | [PDF
 version](https://github.com/fheitmueller/cv/raw/master/cv_Heitmuller.pdf)
 
 I am an associate post-doctoral researcher at the [International Centre
-for Tax and Development (ICTD)](https://www.ictd.ac/) and a Teacher at
-Leiden University’s Institute for Tax Law and Economics. I complete a
-PhD in the [GLOBTAXGOV
+for Tax and Development (ICTD)](https://www.ictd.ac/) and an independent
+tax policy consultant. I completed a PhD in the [GLOBTAXGOV
 Project](https://globtaxgov.weblog.leidenuniv.nl/) at Leiden University
 in March 2024. My research focuses on policies against corporate tax
 avoidance, the influence of international norms in the Global South and
@@ -17,10 +16,25 @@ scholarship.
 
 ## Contact information
 
-<f.heitmuller@law.leidenuniv.nl> | <f.heitmuller@ictd.ac> |
+<f.heitmuller@ictd.ac> | <fheitmueller@gmx.de> |
 [Twitter](https://twitter.com/HeitmuellerF) |
 [LinkedIn](https://www.linkedin.com/in/frederik-heitm%C3%BCller-6b041314a/)
 | [GitHub](https://github.com/fheitmueller)
+
+## Professional experience
+
+-   Since 03/2023 Associate Postdoctoral Fellow at International Centre
+    For Tax and Development, Brighton, UK
+-   Since 03/2023 Independent Tax Policy COnsultant
+-   08/2023 - 08/2024 Teacher at the Tax Law Departmnet at Leiden
+    University, Netherlands
+-   09/2018 - 03/2024 PhD Candidate in the Tax Law Department at Leiden
+    University, Netherlands
+-   05/2018 – 08/2018 Researcher at The Tax Justice Network / COFFERS
+    project
+-   11/2017 – 04/2018 Intern at GIZ – Deutsche Gesellschaft für
+    Internationale Zusammenarbeit
+-   09/2017 – 11/2017 Consultant at The Tax Justice Network
 
 ## Research
 
@@ -66,12 +80,20 @@ scholarship.
 
 ### Policy briefs
 
+-   *A Fairer Global Tax Architecture* (with Martin Hearson, Mbakiso
+    Magwape, and Suranjali Tandon). T20 Policy Brief Task Force 03.
+    2024 -
+    [Paper](https://t20brasil.org/media/documentos/arquivos/TF03_ST_04__A_Fairer_Global_Ta66e1ac3a7de94.pdf)
 -   *Corporate Tax, Digitalization and Globalization* (with Irma
     Mosquera). World Economic Forum White Paper. 2019 -
     [Paper](http://www3.weforum.org/docs/WEF_Corporate_Tax_Digitalization_and_Globalization.pdf)
 
 ### Working papers and Conference papers
 
+-   *The International Tax Regime Complex: understanding change in
+    global tax governance* (with Katahrina Kuhn, Lucinda Cadzow, Martin
+    Hearson, and Tovony Randriamanalina), ICTD Working Paper 212, 2024 -
+    [Paper](https://www.ictd.ac/publication/international-tax-regime-complex-change-global-tax-governance/)
 -   *Inclusive and Effective International Tax Cooperation: Views From
     the Global South* (with Lucinda Cadzow, Martin Hearson, Katharina
     Kuhn, Okanga Okanga, and Tovony Randriamanalina), ICTD Working Paper
@@ -96,6 +118,9 @@ scholarship.
 
 ### Blogs
 
+-   *No “winners or losers”? Reflections on the UN tax negotiations*
+    ICTD Blog. 11 September 2024 -
+    [Link](https://www.ictd.ac/blog/no-winners-or-losers-reflections-on-the-un-tax-negotiations/)
 -   *The Subject-To-Tax-Rule (STTR) – which one to choose?* ICTD Blog.
     12 January 2024 -
     [Link](https://www.ictd.ac/blog/the-subject-to-tax-rule-sttr-which-one-to-choose/)
@@ -114,13 +139,16 @@ scholarship.
 
 ### As (co-)instructor
 
+-   The EU’s Global Regulatory Power and the EU Standard of Tax Good
+    Governance, Postgraduate course at Het Juridische PAO, Leiden
+    University, Spring 2024
 -   International Tax Law for MNEs, Law Faculty, Leiden University, Fall
     2023
 -   Policy coherence to achieve the Sustainable Development Goals from a
     tax, trade and investment law perspective, Honour’s College, Leiden
     University, Fall 2023
--   Comparative Tax Law, Law Faculty, Leiden University, Spring 2023 and
-    Fall 2023
+-   Comparative Tax Law, Law Faculty, Leiden University, Spring 2023,
+    Fall 2023, Spring 2024
 -   EU and Tax Sovereignty: Discussing the Role of the EU In
     International Tax Law Making, at Leiden University, Faculty for
     Global Governance and Affairs, MSc International Relations and
@@ -154,14 +182,6 @@ scholarship.
 -   Journal of International Economic Law
 -   University of Curaçao
 
-## Previous affiliations
-
--   05/2018 – 08/2018 Researcher at The Tax Justice Network / COFFERS
-    project
--   11/2017 – 04/2018 Intern at GIZ – Deutsche Gesellschaft für
-    Internationale Zusammenarbeit
--   09/2017 – 11/2017 Consultant at The Tax Justice Network
-
 ## Education
 
 -   2015 – 2017 M.A. „Empirical Political and Social Research
@@ -180,6 +200,7 @@ scholarship.
 -   Spanish (fluent)
 -   Dutch (fluent)
 -   German (mother tongue)
+-   Arabic (basic)
 
 ## Other skills
 

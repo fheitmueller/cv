@@ -9,11 +9,20 @@ library(here)
 # CV Frederik Heitmüller
 Updated: `r format(Sys.Date(), "%d %b %Y")` | [Web version](https://fheitmueller.github.io/cv/) | [PDF version](https://github.com/fheitmueller/cv/raw/master/cv_Heitmuller.pdf)
 
-I am an associate post-doctoral researcher at the [International Centre for Tax and Development (ICTD)](https://www.ictd.ac/) and a Teacher at Leiden University's Institute for Tax Law and Economics. I complete a PhD in the [GLOBTAXGOV Project](https://globtaxgov.weblog.leidenuniv.nl/) at Leiden University in March 2024. My research focuses on policies against corporate tax avoidance, the influence of international norms in the Global South and tax policy for development. I work in an interdisciplinary way and I aim at contributing to the state of the art in political science and tax law scholarship. 
+I am an associate post-doctoral researcher at the [International Centre for Tax and Development (ICTD)](https://www.ictd.ac/) and an independent tax policy consultant. I completed a PhD in the [GLOBTAXGOV Project](https://globtaxgov.weblog.leidenuniv.nl/) at Leiden University in March 2024. My research focuses on policies against corporate tax avoidance, the influence of international norms in the Global South and tax policy for development. I work in an interdisciplinary way and I aim at contributing to the state of the art in political science and tax law scholarship. 
 
 ## Contact information
 
-[f.heitmuller@law.leidenuniv.nl](mailto:f.heitmuller@law.leidenuniv.nl) | [f.heitmuller@ictd.ac](mailto:f.heitmuller@ictd.ac) | [Twitter](https://twitter.com/HeitmuellerF) | [LinkedIn](https://www.linkedin.com/in/frederik-heitm%C3%BCller-6b041314a/) | [GitHub](https://github.com/fheitmueller) 
+[f.heitmuller@ictd.ac](mailto:f.heitmuller@ictd.ac) | [fheitmueller@gmx.de](mailto:fheitmueller@gmx.de) | [Twitter](https://twitter.com/HeitmuellerF) | [LinkedIn](https://www.linkedin.com/in/frederik-heitm%C3%BCller-6b041314a/) | [GitHub](https://github.com/fheitmueller) 
+
+## Professional experience
+* Since 03/2023 Associate Postdoctoral Fellow at International Centre For Tax and Development, Brighton, UK
+* Since 03/2023 Independent Tax Policy COnsultant
+* 08/2023 - 08/2024 Teacher at the Tax Law Departmnet at Leiden University, Netherlands
+* 09/2018 - 03/2024 PhD Candidate in the Tax Law Department at Leiden University, Netherlands
+* 05/2018 – 08/2018	Researcher at The Tax Justice Network / COFFERS project
+* 11/2017 – 04/2018 Intern at GIZ – Deutsche Gesellschaft für Internationale Zusammenarbeit
+* 09/2017 – 11/2017	Consultant at The Tax Justice Network
 
 ## Research
 ### Peer-reviewed journal articles
@@ -32,9 +41,11 @@ I am an associate post-doctoral researcher at the [International Centre for Tax 
 * _Multilateral Cooperation in International Tax Law_ (with Juliana Cubillos and Irma Mosquera). In: The Future of Multilateralism: Global Cooperation and International Organizations (ed.: Madeleine O. Hosli, Taylor Garrett, Sonja Niedecken, Nicolas Verbeek). 2021. Lanham (Maryland): Rowman & Littlefield -  [Pre-Print](http://globtaxgov.weblog.leidenuniv.nl/files/2021/08/Multilateral-Cooperation-in-International-Tax-Law.pdf)
 
 ### Policy briefs
+* _A Fairer Global Tax Architecture_ (with Martin Hearson, Mbakiso Magwape, and Suranjali Tandon). T20 Policy Brief Task Force 03. 2024 - [Paper](https://t20brasil.org/media/documentos/arquivos/TF03_ST_04__A_Fairer_Global_Ta66e1ac3a7de94.pdf) 
 *	_Corporate Tax, Digitalization and Globalization_ (with Irma Mosquera). World Economic Forum White Paper. 2019 - [Paper](http://www3.weforum.org/docs/WEF_Corporate_Tax_Digitalization_and_Globalization.pdf)
 
 ### Working papers and Conference papers
+* _The International Tax Regime Complex: understanding change in global tax governance_ (with Katahrina Kuhn, Lucinda Cadzow, Martin Hearson, and Tovony Randriamanalina), ICTD Working Paper 212, 2024 - [Paper](https://www.ictd.ac/publication/international-tax-regime-complex-change-global-tax-governance/)
 * _Inclusive and Effective International Tax Cooperation: Views From the Global South_ (with Lucinda Cadzow, Martin Hearson, Katharina Kuhn, Okanga Okanga, and Tovony Randriamanalina), ICTD Working Paper 172, 2023 - [Paper](https://www.ictd.ac/publication/inclusive-effective-international-tax-cooperation/)
 * _Tax Treaty Norms Among Lower-Income Countries and the Role of the UN Model: Past, Present and Potential_ (with Martin Hearson and Vincent Arel-Bundock), ICTD Working Paper 171, 2023  - [Paper](https://www.ictd.ac/publication/tax-treaty-norms-among-lower-income-countries/)
 *	_Regulatory Capacity of Corporate Registries in the European Union. Survey Results_ (with Moran Harari and Markus Meinzer), 2019 - [Paper](https://www.taxjustice.net/wp-content/uploads/2019/02/Administrative-capacity-of-corporate-registries-Tax-Justice-Network-Feb-2019.pdf)
@@ -42,6 +53,7 @@ I am an associate post-doctoral researcher at the [International Centre for Tax 
 *	_Citizenship and Residency by Investment Schemes: Potential to Avoid the Common Reporting Standard for Automatic Exchange of Information_”_ (with Andres Knobel). 2018 - [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3144444)
 
 ### Blogs
+* _No “winners or losers”? Reflections on the UN tax negotiations_ ICTD Blog. 11 September 2024 - [Link](https://www.ictd.ac/blog/no-winners-or-losers-reflections-on-the-un-tax-negotiations/)
 * _The Subject-To-Tax-Rule (STTR) – which one to choose?_ ICTD Blog. 12 January 2024 - [Link](https://www.ictd.ac/blog/the-subject-to-tax-rule-sttr-which-one-to-choose/)
 * _Are G7 countries doing developing countries a favour when levying global minimum taxes?_ GLOBTAXGOV Blog. 10 June 2021 - [Link](https://globtaxgov.weblog.leidenuniv.nl/2021/06/10/are-g7-countries-doing-developing-countries-a-favour-when-levying-global-minimum-taxes/)
 * _Corporate income taxation and COVID-19 – time to think about a European tax?_ GLOBTAXGOV Blog. 5 June 2020 - [Link](https://globtaxgov.weblog.leidenuniv.nl/2020/06/05/corporate-income-taxation-and-covid-19-time-to-think-about-a-european-tax/)
@@ -49,9 +61,10 @@ I am an associate post-doctoral researcher at the [International Centre for Tax 
 
 ## Teaching
 ### As (co-)instructor
+* The EU’s Global Regulatory Power and the EU Standard of Tax Good Governance, Postgraduate course at Het Juridische PAO, Leiden University, Spring 2024
 * International Tax Law for MNEs, Law Faculty, Leiden University, Fall 2023
 * Policy coherence to achieve the Sustainable Development Goals from a tax, trade and investment law perspective, Honour's College, Leiden University, Fall 2023 
-* Comparative Tax Law, Law Faculty, Leiden University, Spring 2023 and Fall 2023
+* Comparative Tax Law, Law Faculty, Leiden University, Spring 2023, Fall 2023, Spring 2024
 * EU and Tax Sovereignty: Discussing the Role of the EU In International Tax Law Making, at Leiden University, Faculty for Global Governance and Affairs, MSc International Relations and Diplomacy Program (MIRD), Fall 2022 and Spring 2024
 * Navigating Global Tax Governance. A series of 5 workshops for tax officials in Africa, in cooperation with [African Tax Administration Forum](www.ataftax.org/). February and March 2022
 
@@ -72,11 +85,6 @@ I am an associate post-doctoral researcher at the [International Centre for Tax 
 * Journal of International Economic Law
 * University of Curaçao
 
-## Previous affiliations
-* 05/2018 – 08/2018	Researcher at The Tax Justice Network / COFFERS project
-* 11/2017 – 04/2018 Intern at GIZ – Deutsche Gesellschaft für Internationale Zusammenarbeit
-* 09/2017 – 11/2017	Consultant at The Tax Justice Network
-
 ## Education
 * 2015 – 2017 	M.A. „Empirical Political and Social Research (Franco-German)“ at University of Stuttgart and M.A. „Bordeaux International Relations Degree” at Sciences Po Bordeaux (double-degree program)
 * 2016 Non-degree program at Middlebury Institute for International Studies, Monterey, California (specialization: International Trade)
@@ -88,6 +96,7 @@ I am an associate post-doctoral researcher at the [International Centre for Tax 
 * Spanish (fluent)
 * Dutch (fluent)
 * German (mother tongue)
+* Arabic (basic)
 
 ## Other skills
 * R (statistical programming language) (advanced)
