@@ -25,8 +25,13 @@ scholarship.
 
 -   Since 03/2023 Associate Postdoctoral Fellow at International Centre
     For Tax and Development, Brighton, UK
+<<<<<<< HEAD
 -   Since 03/2023 Independent Tax Policy Consultant
 -   08/2023 - 08/2024 Teacher at the Tax Law Department at Leiden
+=======
+-   Since 03/2023 Independent Tax Policy COnsultant
+-   08/2023 - 08/2024 Teacher at the Tax Law Departmnet at Leiden
+>>>>>>> 3c38e1050d498ec3556f8b3b5f544f341257427e
     University, Netherlands
 -   09/2018 - 03/2024 PhD Candidate in the Tax Law Department at Leiden
     University, Netherlands
