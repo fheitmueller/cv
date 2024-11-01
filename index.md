@@ -1,6 +1,6 @@
 # CV Frederik Heitmüller
 
-Updated: 29 Okt 2024 | [Web version](https://fheitmueller.github.io/cv/)
+Updated: 01 Nov 2024 | [Web version](https://fheitmueller.github.io/cv/)
 | [PDF
 version](https://github.com/fheitmueller/cv/raw/master/cv_Heitmuller.pdf)
 
@@ -25,13 +25,11 @@ scholarship.
 
 -   Since 03/2023 Associate Postdoctoral Fellow at International Centre
     For Tax and Development, Brighton, UK
-<<<<<<< HEAD
 -   Since 03/2023 Independent Tax Policy Consultant
 -   08/2023 - 08/2024 Teacher at the Tax Law Department at Leiden
-=======
--   Since 03/2023 Independent Tax Policy COnsultant
--   08/2023 - 08/2024 Teacher at the Tax Law Departmnet at Leiden
->>>>>>> 3c38e1050d498ec3556f8b3b5f544f341257427e
+    University, Netherlands
+-   Since 03/2023 Independent Tax Policy Consultant
+-   08/2023 - 08/2024 Teacher at the Tax Law Department at Leiden
     University, Netherlands
 -   09/2018 - 03/2024 PhD Candidate in the Tax Law Department at Leiden
     University, Netherlands
@@ -49,7 +47,8 @@ scholarship.
     international tax standards and legitimacy of global tax governance*
     (with Juliana Cubillos), Intertax, Volume 52, Issue 3, 2024, Pages
     207-225 -
-    [Paper](https://kluwerlawonline.com/journalarticle/Intertax/52.3/TAXI2024027)(paywall)
+    [Paper](https://kluwerlawonline.com/journalarticle/Intertax/52.3/TAXI2024027)
+    (paywall)
 -   *Special Economic Zones Facing the Challenges of International
     Taxation: BEPS Action 5, EU Code of Conduct, and the Future* (with
     Irma Mosquera), Journal of International Economic Law, Volume 24,
