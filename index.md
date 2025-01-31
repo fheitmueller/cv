@@ -1,12 +1,13 @@
 # CV Frederik Heitmüller
 
-Updated: 01 Nov 2024 | [Web version](https://fheitmueller.github.io/cv/)
+Updated: 31 Jan 2025 | [Web version](https://fheitmueller.github.io/cv/)
 | [PDF
 version](https://github.com/fheitmueller/cv/raw/master/cv_Heitmuller.pdf)
 
-I am an associate post-doctoral researcher at the [International Centre
-for Tax and Development (ICTD)](https://www.ictd.ac/) and an independent
-tax policy consultant. I completed a PhD in the [GLOBTAXGOV
+I am an independent tax policy and research consultant. I am also an
+Associate Postdoctoral Fellow with the [International Centre for Tax and
+Development (ICTD)](https://www.ictd.ac/) and an guest lecturer at
+Leiden University. I completed a PhD in the [GLOBTAXGOV
 Project](https://globtaxgov.weblog.leidenuniv.nl/) at Leiden University
 in March 2024. My research focuses on policies against corporate tax
 avoidance, the influence of international norms in the Global South and
@@ -26,9 +27,7 @@ scholarship.
 -   Since 03/2023 Associate Postdoctoral Fellow at International Centre
     For Tax and Development, Brighton, UK
 -   Since 03/2023 Independent Tax Policy Consultant
--   08/2023 - 08/2024 Teacher at the Tax Law Department at Leiden
-    University, Netherlands
--   Since 03/2023 Independent Tax Policy Consultant
+-   Since 09/2024 Guest Lecturer at Leiden University, Netherlands
 -   08/2023 - 08/2024 Teacher at the Tax Law Department at Leiden
     University, Netherlands
 -   09/2018 - 03/2024 PhD Candidate in the Tax Law Department at Leiden
@@ -57,43 +56,11 @@ scholarship.
     [Slides](http://globtaxgov.weblog.leidenuniv.nl/files/2020/10/Heitm%C3%BCller_Mosquera_SEZ_taxation.pdf) -
     [Data](https://github.com/fheitmueller/sez_beps)
 
-### PhD thesis
-
--   *Combatting tax avoidance, the OECD way? The impact of the BEPS
-    Project on developing and emerging countries’ approach to
-    international tax avoidance*, Leiden University, 2024 - [Full
-    text](https://hdl.handle.net/1887/3721806)
-
-### Reports and toolkits
-
--   *Toolkit for the Design and Effective Implementation of Domestic and
-    International General Anti-Avoidance Rules* (with Juliana Cubillos
-    and Irma Mosquera), Published by Inter-American Center of Tax
-    Administrations (CIAT), 2022. - [report in
-    English](https://biblioteca.ciat.org/opac/book/5804) - [report in
-    Spanish](https://biblioteca.ciat.org/opac/book/5803)
-
-### Book chapters
-
--   *Multilateral Cooperation in International Tax Law* (with Juliana
-    Cubillos and Irma Mosquera). In: The Future of Multilateralism:
-    Global Cooperation and International Organizations (ed.:
-    Madeleine O. Hosli, Taylor Garrett, Sonja Niedecken, Nicolas
-    Verbeek). 2021. Lanham (Maryland): Rowman & Littlefield -
-    [Pre-Print](http://globtaxgov.weblog.leidenuniv.nl/files/2021/08/Multilateral-Cooperation-in-International-Tax-Law.pdf)
-
-### Policy briefs
-
--   *A Fairer Global Tax Architecture* (with Martin Hearson, Mbakiso
-    Magwape, and Suranjali Tandon). T20 Policy Brief Task Force 03.
-    2024 -
-    [Paper](https://t20brasil.org/media/documentos/arquivos/TF03_ST_04__A_Fairer_Global_Ta66e1ac3a7de94.pdf)
--   *Corporate Tax, Digitalization and Globalization* (with Irma
-    Mosquera). World Economic Forum White Paper. 2019 -
-    [Paper](http://www3.weforum.org/docs/WEF_Corporate_Tax_Digitalization_and_Globalization.pdf)
-
 ### Working papers and Conference papers
 
+-   *Scenarios for Negotiating a UN Framework Convention on
+    International Tax*, ICTD Working Paper 218, 2025 -
+    [Paper](https://www.ictd.ac/publication/scenarios-for-negotiating-a-un-framework-convention-on-international-tax/)
 -   *The International Tax Regime Complex: understanding change in
     global tax governance* (with Katahrina Kuhn, Lucinda Cadzow, Martin
     Hearson, and Tovony Randriamanalina), ICTD Working Paper 212, 2024 -
@@ -120,6 +87,48 @@ scholarship.
     Information*”\_ (with Andres Knobel). 2018 -
     [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3144444)
 
+### PhD thesis
+
+-   *Combatting tax avoidance, the OECD way? The impact of the BEPS
+    Project on developing and emerging countries’ approach to
+    international tax avoidance*, Leiden University, 2024 - [Full
+    text](https://hdl.handle.net/1887/3721806)
+
+### Reports and toolkits
+
+-   *Toolkit for the Design and Effective Implementation of Domestic and
+    International General Anti-Avoidance Rules* (with Juliana Cubillos
+    and Irma Mosquera), Published by Inter-American Center of Tax
+    Administrations (CIAT), 2022. - [report in
+    English](https://biblioteca.ciat.org/opac/book/5804) - [report in
+    Spanish](https://biblioteca.ciat.org/opac/book/5803)
+
+### Book chapters
+
+-   *Dealing with Treaty Shopping Across the Tax, Trade, and Investment
+    Regimes*. In Redefining Global Governance (ed.: Irma Johanna
+    Mosquera Valderrama, Frederik Heitmüller, Julien Chaisse, and
+    Allison Christians), 97–114. Emerging Globalities and Civilizational
+    Perspectives. 2025. Cham: Springer Nature Switzerland. -
+    [Link](https://doi.org/10.1007/978-3-031-69793-7_8).
+
+-   *Multilateral Cooperation in International Tax Law* (with Juliana
+    Cubillos and Irma Mosquera). In: The Future of Multilateralism:
+    Global Cooperation and International Organizations (ed.:
+    Madeleine O. Hosli, Taylor Garrett, Sonja Niedecken, Nicolas
+    Verbeek). 2021. Lanham (Maryland): Rowman & Littlefield -
+    [Pre-Print](http://globtaxgov.weblog.leidenuniv.nl/files/2021/08/Multilateral-Cooperation-in-International-Tax-Law.pdf)
+
+### Policy briefs
+
+-   *A Fairer Global Tax Architecture* (with Martin Hearson, Mbakiso
+    Magwape, and Suranjali Tandon). T20 Policy Brief Task Force 03.
+    2024 -
+    [Paper](https://t20brasil.org/media/documentos/arquivos/TF03_ST_04__A_Fairer_Global_Ta66e1ac3a7de94.pdf)
+-   *Corporate Tax, Digitalization and Globalization* (with Irma
+    Mosquera). World Economic Forum White Paper. 2019 -
+    [Paper](http://www3.weforum.org/docs/WEF_Corporate_Tax_Digitalization_and_Globalization.pdf)
+
 ### Blogs
 
 -   *No “winners or losers”? Reflections on the UN tax negotiations*
@@ -138,6 +147,14 @@ scholarship.
     our time? – Insights from the conference “G20 @ 10”* GLOBTAXGOV
     Blog. 23 November 2018 -
     [Link](https://globtaxgov.weblog.leidenuniv.nl/2018/11/23/are-clubs-still-the-right-place-to-deal-with-the-great-problems-of-our-time-insights-from-the-conference-g20-10/)
+
+### Book edited
+
+-   *Redefining Global Governance: A Tax, Trade and Investment
+    Perspective in the EU and Beyond* (with Irma Mosquera Valderrama,
+    Julien Chaisse, and Allison Christians). Emerging Globalities and
+    Civilizational Perspectives. Cham: Springer Nature Switzerland,
+    2024 - [Link](https://doi.org/10.1007/978-3-031-69793-7).
 
 ## Teaching
 
